@@ -1,5 +1,5 @@
 ### HELLO WORLD  
-its me sm0l  
+it me sm0l  
 I am a ctrl-c ctrl-v and a pull stack programmer, basically i search for codes and i pull them off (ctrl-c) and then put them in my code (ctrl-v)  
 I am a simple bloke who likes to keep everything simple and stuff =)  
 I like F1, ferrari ofc is the best and seb is speed  
