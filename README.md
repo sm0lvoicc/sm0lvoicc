@@ -6,4 +6,7 @@ I like F1, ferrari ofc is the best and seb is speed
 I am currently learning how to, umm, do stuff  
 You can reach me through discord, the account is small voice of calm and reason™#9907  
 you can also add my [discord bot](https://discord.com/api/oauth2/authorize?client_id=760426095563767818&permissions=4294967287&scope=bot%20applications.commands)  
-![chicken](https://user-images.githubusercontent.com/72088954/111024159-270f1400-8403-11eb-901c-bdc8041755a7.gif)
+![code fakeri](https://user-images.githubusercontent.com/72088954/111316686-7bc3c080-8689-11eb-8e82-2381caf555d4.gif)
+  
+  
+[![Discord Bots](https://top.gg/api/widget/status/760426095563767818.svg)](https://top.gg/bot/760426095563767818)
