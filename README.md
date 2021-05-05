@@ -9,4 +9,4 @@ you can also add my [discord bot](https://discord.com/api/oauth2/authorize?clien
 ![code fakeri](https://user-images.githubusercontent.com/72088954/111316686-7bc3c080-8689-11eb-8e82-2381caf555d4.gif)
   
   
-[![Discord Bots](https://top.gg/api/widget/status/760426095563767818.svg)](https://top.gg/bot/760426095563767818)
+[![Discord Bots](https://top.gg/api/widget/status/760426095563767818.svg)](https://discord.bots.gg/bots/760426095563767818)
