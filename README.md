@@ -7,3 +7,5 @@ I am currently learning how to, umm, do stuff
 You can reach me through discord, the account is small voice of calm and reason™#9907  
 you can also add my [discord bot](https://discord.com/api/oauth2/authorize?client_id=760426095563767818&permissions=4294967287&scope=bot%20applications.commands)  
 ![code fakeri](https://user-images.githubusercontent.com/72088954/111316686-7bc3c080-8689-11eb-8e82-2381caf555d4.gif)
+
+<a href="https://discordbotlist.com/bots/760426095563767818"><img src="https://discordbotlist.com/api/v1/bots/760426095563767818/widget"></a>
