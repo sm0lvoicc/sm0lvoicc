@@ -1,11 +1,1 @@
-### HELLO WORLD  
-it me sm0l  
-I am a ctrl-c ctrl-v and a pull stack programmer, basically i search for codes and i pull them off (ctrl-c) and then put them in my code (ctrl-v)  
-I am a simple bloke who likes to keep everything simple and stuff =)  
-I like F1, ferrari ofc is the best and seb is speed  
-I am currently learning how to, umm, do stuff  
-You can reach me through discord, the account is small voice of calm and reason™#9907  
-you can also add my [discord bot](https://discord.com/api/oauth2/authorize?client_id=760426095563767818&permissions=4294967287&scope=bot%20applications.commands)  
-![code fakeri](https://user-images.githubusercontent.com/72088954/111316686-7bc3c080-8689-11eb-8e82-2381caf555d4.gif)
-
-<a href="https://discordbotlist.com/bots/760426095563767818"><img src="https://discordbotlist.com/api/v1/bots/760426095563767818/widget"></a>
+![Metrics](https://metrics.lecoq.io/sm0lvoicc?template=classic&base.community=0&isocalendar=1&languages=1&introduction=1&activity=1&music=1&achievements=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&activity.limit=3&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=true&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=true&music.provider=apple&music.mode=playlist&music.playlist=https%3A%2F%2Fmusic.apple.com%2Fin%2Fplaylist%2Fmusic-sm0l%2524-gi%2Fpl.u-e98lkejSzrM0r8b&music.limit=3&music.played.at=true&music.user=.user.login&config.timezone=Asia%2FCalcutta)
